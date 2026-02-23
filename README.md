@@ -50,7 +50,7 @@
 
 ### 🌱 My DevOps Journey & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manesaurabh1704-devops&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,aws&theme=dark" width="800" />
 </p>
 
 ---
