@@ -48,11 +48,7 @@
 
 ---
 
-### 🚀 My DevOps Journey & Activity
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=DevOps%20Engineer&fontSize=70&animation=fadeIn" />
-</p>
-
+### 🌱 My DevOps Journey & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manesaurabh1704-devops&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </p>
