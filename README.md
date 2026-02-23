@@ -11,6 +11,13 @@
 
 ---
 
+### ♾️ The DevOps Journey
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/122669982/352105824-772a360f-1235-4bb9-a40e-bae6e144c1fe.png" alt="DevOps Infinity Loop" width="600" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manesaurabh1704-devops&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
