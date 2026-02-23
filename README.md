@@ -51,7 +51,11 @@
 ### 🌱 My DevOps Journey & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manesaurabh1704-devops&theme=tokyonight&no-bg=true" alt="Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manesaurabh1704-devops&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 ---
 
