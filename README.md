@@ -4,9 +4,46 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tools & Technologies:
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux,git,github,vscode" />
+  <table align="center">
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=linux" /><br>Linux
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=terraform" /><br>Terraform
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=jenkins" /><br>Jenkins
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=kubernetes" /><br>Kubernetes
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ansible" /><br>Ansible
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ubuntu" /><br>Ubuntu
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" /><br>Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=docker" /><br>Docker
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" /><br>Git Hub
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=aws" /><br>AWS
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
