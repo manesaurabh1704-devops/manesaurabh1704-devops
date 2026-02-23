@@ -50,7 +50,9 @@
 
 ### 🌱 My DevOps Journey & Activity
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,aws&theme=dark" width="800" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=manesaurabh1704-devops&theme=tokyonight&no-bg=true&column=6" alt="trophy" />
+  </a>
 </p>
 
 ---
