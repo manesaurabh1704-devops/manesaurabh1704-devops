@@ -50,9 +50,7 @@
 
 ### 🌱 My DevOps Journey & Activity
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manesaurabh1704-devops&theme=tokyonight&no-bg=true&column=6" alt="trophy" />
-  </a>
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&height=100&section=header&text=Building%20Cloud%20Infrastructure%20🚀&fontSize=30&animation=twinkling" />
 </p>
 
 ---
