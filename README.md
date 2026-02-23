@@ -48,9 +48,13 @@
 
 ---
 
-### ♾️ The DevOps Journey
+### 🚀 My DevOps Journey & Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d47833a681d1123e4210e755030e2/topics/devops/devops.png" alt="DevOps Infinity Loop" width="600" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=DevOps%20Engineer&fontSize=70&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manesaurabh1704-devops&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </p>
 
 ---
