@@ -18,9 +18,10 @@
 
 ---
 
-### 🐍 My Contribution Snake
-![snake animation](https://raw.githubusercontent.com/manesaurabh1704-devops/manesaurabh1704-devops/output/github-contribution-grid-snake.svg)
-
+### 🐍 My DevOps Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manesaurabh1704-devops/manesaurabh1704-devops/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 ---
 
 ### 📊 GitHub Stats
