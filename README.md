@@ -50,11 +50,9 @@
 
 ### 🌱 My DevOps Journey & Activity
 
-1. **GitHub Profile Trophy**:
 ![Trophy](https://github-profile-trophy.vercel.app/?username=manesaurabh1704-devops&theme=tokyonight&no-bg=true)
 
-2. **Current Focus**:
-![Focus](https://capsule-render.vercel.app/render?type=rect&color=gradient&height=60&text=Building%20Cloud%20Infrastructure%20🚀&fontSize=25)
+---
 ---
 
 ### 🚀 DevOps Activity Launchpad
