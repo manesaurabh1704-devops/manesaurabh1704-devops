@@ -50,15 +50,11 @@
 
 ### 🌱 My DevOps Journey & Activity
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manesaurabh1704-devops&theme=tokyonight&no-bg=true&column=6" alt="trophy" />
-  </a>
-</p>
+1. **GitHub Profile Trophy**:
+![Trophy](https://github-profile-trophy.vercel.app/?username=manesaurabh1704-devops&theme=tokyonight&no-bg=true)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&height=100&section=header&text=Building%20Cloud%20Infrastructure%20🚀&fontSize=30&animation=twinkling" alt="Current Focus" />
-</p>
+2. **Current Focus**:
+![Focus](https://capsule-render.vercel.app/render?type=rect&color=gradient&height=60&text=Building%20Cloud%20Infrastructure%20🚀&fontSize=25)
 ---
 
 ### 🚀 DevOps Activity Launchpad
