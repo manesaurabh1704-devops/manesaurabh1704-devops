@@ -50,9 +50,9 @@
 
 ### 🌱 My DevOps Journey & Activity
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=manesaurabh1704-devops&theme=tokyonight&no-bg=true)
-
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manesaurabh1704-devops&theme=tokyonight&no-bg=true" alt="Trophy" />
+</p>
 ---
 
 ### 🚀 DevOps Activity Launchpad
