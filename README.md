@@ -13,7 +13,7 @@
 
 ### ♾️ The DevOps Journey
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/122669982/352105824-772a360f-1235-4bb9-a40e-bae6e144c1fe.png" alt="DevOps Infinity Loop" width="600" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d47833a681d1123e4210e755030e2/topics/devops/devops.png" alt="DevOps Infinity Loop" width="600" />
 </p>
 
 ---
