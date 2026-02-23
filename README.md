@@ -57,19 +57,10 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
 <p align="center">
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=manesaurabh1704-devops&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170px" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manesaurabh1704-devops&theme=tokyonight&hide_border=true" height="170px" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api/combined-stats?username=manesaurabh1704-devops&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
-
 ---
 
 ### 🚀 About Me
