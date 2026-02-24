@@ -54,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/manesaurabh1704-devops/manesaurabh1704-devops/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 ---
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manesaurabh1704-devops&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
