@@ -49,26 +49,34 @@
 
 ---
 
-### 🚀 DevOps Activity Launchpad
+### 🚀 DevOps Activity Launchpad:
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/manesaurabh1704-devops/manesaurabh1704-devops/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 ---
 
 
-### 📊 GitHub Status
+### 📊 GitHub Status:
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manesaurabh1704-devops&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manesaurabh1704-devops&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+
 ---
 
-### 🚀 About Me
+
+### 🚀 About Me:
 * 🔭 I’m currently focused on **Cloud Infrastructure & CI/CD Automation**.
 * 🌱 I’m constantly learning **Kubernetes, Advanced AWS Services, and Infrastructure as Code**.
 * ⚡ Fun fact: "Automating a manual task gives me more joy than solving a complex puzzle!"
 * 🤝 I am passionate about building scalable, efficient, and secure systems.
+
+
 
 ---
 
