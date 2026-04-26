@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9BF5&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Saurabh+Mane!+%F0%9F%91%8B;DevOps+Engineer+%7C+SRE+%7C+3%2B+Years+%F0%9F%9A%80;Multi-Cloud+Kubernetes+%7C+EKS+%7C+AKS+%7C+GKE+%E2%98%81%EF%B8%8F;Infrastructure+Automation+Architect+%F0%9F%94%A7;CI%2FCD+%7C+GitOps+%7C+DevSecOps+%F0%9F%94%90" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">DevOps Engineer | SRE | Multi-Cloud Kubernetes & Infrastructure Automation | 3+ Years</h3>
+<h3 align="center">DevOps Engineer | SRE | Multi-Cloud Kubernetes & Infrastructure Automation </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manesaurabh1704-devops&style=for-the-badge&color=2E9BF5" />
