@@ -93,16 +93,129 @@ saurabh = {
 
 ### 💼 Featured Projects:
 
-| 🚀 Project | 🛠️ Tech Stack | 🔗 Link |
-|-----------|--------------|--------|
-| 🌐 Multi-Cloud DevOps StudentSphere | AWS EKS, Azure AKS, GCP GKE, K8s, Terraform, Jenkins, ArgoCD | [GitHub ↗](https://github.com/manesaurabh1704-devops/multi-cloud-devops-studentsphere) |
-| 🤖 AI Autonomous DevOps Healer | AWS EKS, LangChain, Groq/Bedrock, Prometheus, FastAPI, Python | [GitHub ↗](https://github.com/manesaurabh1704-devops/ai-autonomous-devops-healer) |
-| ☁️ Terraform Multi-Cloud Infra | Terraform, AWS, Azure, GCP, VPC, EKS, AKS, GKE | [GitHub ↗](https://github.com/manesaurabh1704-devops/terraform-multi-cloud-infra) |
-| ⚙️ Kubernetes Production Setup | Kubernetes, EKS, HPA, Canary, Blue-Green, ArgoCD, RBAC | [GitHub ↗](https://github.com/manesaurabh1704-devops/kubernetes-production-setup) |
-| 🔄 CI/CD DevOps Pipelines | Jenkins, GitHub Actions, Docker, ArgoCD, Trivy | [GitHub ↗](https://github.com/manesaurabh1704-devops/ci-cd-devops-pipelines) |
-| 📊 Monitoring & Observability Stack | Prometheus, Grafana, Alertmanager, Helm, EKS | [GitHub ↗](https://github.com/manesaurabh1704-devops/monitoring-observability-stack) |
-| 🔐 DevOps Security & Secrets | Trivy, RBAC, Network Policies, Kubernetes Secrets | [GitHub ↗](https://github.com/manesaurabh1704-devops/devops-security-secrets) |
-| 🏗️ Terraform AWS DevOps Infrastructure | Terraform, AWS VPC, ALB, ASG, EC2, CloudWatch, S3 | [GitHub ↗](https://github.com/manesaurabh1704-devops/terraform-aws-devops-infrastructure) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Multi-Cloud DevOps StudentSphere</h3>
+      <img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Cloud-Multi_Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+      <br><br>
+      <p>Production-grade full-stack app (React + Spring Boot + MariaDB) deployed across <strong>AWS EKS, Azure AKS & GCP GKE</strong> using identical K8s manifests with GitOps, Zero Trust security & full observability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+        <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white" />
+      </p>
+      <a href="https://github.com/manesaurabh1704-devops/multi-cloud-devops-studentsphere"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Autonomous DevOps Healer</h3>
+      <img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Type-AI_+_DevOps-9B59B6?style=flat-square&logo=openai&logoColor=white" />
+      <br><br>
+      <p>AI-powered self-healing agent on AWS EKS that detects pod failures via Prometheus, analyzes logs using <strong>LangChain + Groq/Bedrock LLM</strong>, and auto-heals — reducing MTTR from 30 min to under 30 sec.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+      </p>
+      <a href="https://github.com/manesaurabh1704-devops/ai-autonomous-devops-healer"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ Terraform Multi-Cloud Infra</h3>
+      <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Type-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      <br><br>
+      <p>Reusable Terraform modules to provision <strong>AWS, Azure & GCP</strong> infrastructure from scratch — VPC, EKS, AKS, GKE, ALB, NAT Gateway, and remote state management with S3 + DynamoDB locking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+      </p>
+      <a href="https://github.com/manesaurabh1704-devops/terraform-multi-cloud-infra"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Kubernetes Production Setup</h3>
+      <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Type-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <br><br>
+      <p>Production-grade K8s manifests with <strong>HPA, Canary (33% split) & Blue-Green</strong> deployments on AWS EKS. ArgoCD GitOps with automated rollback enabling sub-2-minute recovery on failures.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+        <img src="https://img.shields.io/badge/HPA-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+      </p>
+      <a href="https://github.com/manesaurabh1704-devops/kubernetes-production-setup"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Monitoring & Observability Stack</h3>
+      <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Type-Observability-F46800?style=flat-square&logo=grafana&logoColor=white" />
+      <br><br>
+      <p>Full observability stack via Helm on 4-node EKS cluster — <strong>Prometheus + Grafana + Alertmanager</strong> monitoring 31 targets with custom dashboards, proactive alerting & incident detection under 2 min.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+        <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+      </p>
+      <a href="https://github.com/manesaurabh1704-devops/monitoring-observability-stack"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 DevOps Security & Secrets</h3>
+      <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Type-DevSecOps-1904DA?style=flat-square&logo=aquasecurity&logoColor=white" />
+      <br><br>
+      <p>Zero Trust security implementation — <strong>Trivy image scanning, K8s RBAC, Network Policies</strong> & Secrets management. Blocks critical CVEs in CI before deployment, eliminating hardcoded credentials.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white" />
+        <img src="https://img.shields.io/badge/RBAC-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      </p>
+      <a href="https://github.com/manesaurabh1704-devops/devops-security-secrets"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔄 CI/CD DevOps Pipelines</h3>
+      <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Type-CI/CD-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+      <br><br>
+      <p>7-stage Jenkins pipeline with <strong>parallel builds, Trivy scanning, Docker push & EKS deploy</strong> completing in under 4 minutes. Includes GitHub Actions workflows and automated rollback on failures.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white" />
+      </p>
+      <a href="https://github.com/manesaurabh1704-devops/ci-cd-devops-pipelines"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ Terraform AWS DevOps Infrastructure</h3>
+      <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Type-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      <br><br>
+      <p>Highly available AWS infra using reusable Terraform modules — <strong>VPC, ALB, Auto Scaling Group, NAT Gateway</strong> across multi-AZ with CloudWatch dynamic scaling & DynamoDB state locking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+      </p>
+      <a href="https://github.com/manesaurabh1704-devops/terraform-aws-devops-infrastructure"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
