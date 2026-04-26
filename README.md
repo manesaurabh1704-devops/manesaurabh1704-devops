@@ -86,10 +86,17 @@ saurabh = {
 
 ---
 
-### 🏆 GitHub Trophies:
+### 🏆 GitHub Achievements:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manesaurabh1704-devops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manesaurabh1704-devops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Achievements" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits_(Last_Year)-138-2E9BF5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repos-8+-2E9BF5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Cloud-AWS_%7C_Azure_%7C_GCP-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-EKS_%7C_AKS_%7C_GKE-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ---
