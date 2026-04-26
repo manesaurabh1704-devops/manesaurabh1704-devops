@@ -11,49 +11,64 @@
 
 ---
 
-### 🛠️ Tools & Technologies:
+### 🛠️ Tech Stack:
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>☁️ Cloud & Orchestration</strong><br><br>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GCP_GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>🏗️ Infrastructure as Code</strong><br><br>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>🔄 CI/CD & GitOps</strong><br><br>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>📊 Observability</strong><br><br>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>🐳 Containers & Runtime</strong><br><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>🔐 Security & DevSecOps</strong><br><br>
+      <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/K8s_RBAC-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Network_Policies-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=aws" /><br>AWS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=kubernetes" /><br>Kubernetes
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=docker" /><br>Docker
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=terraform" /><br>Terraform
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=jenkins" /><br>Jenkins
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ansible" /><br>Ansible
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=linux" /><br>Linux
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ubuntu" /><br>Ubuntu
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" /><br>Git
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" /><br>GitHub
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python" /><br>Python
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
 </p>
 
 ---
