@@ -107,6 +107,12 @@ saurabh = {
   <img src="https://raw.githubusercontent.com/manesaurabh1704-devops/manesaurabh1704-devops/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
+### 📈 Contribution Activity Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manesaurabh1704-devops&theme=tokyo-night&hide_border=true&area=true&area_color=2E9BF5" alt="Contribution Graph" />
+</p>
+
 ---
 
 ### 📊 GitHub Status:
@@ -150,8 +156,16 @@ saurabh = {
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://linkedin.com/in/saurabh-mane">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://github.com/manesaurabh1704-devops">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://hub.docker.com/u/manesaurabh1704devops">
+    <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Open_To_Work-YES-brightgreen?style=for-the-badge" />
