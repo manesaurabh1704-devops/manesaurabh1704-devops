@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E9BF5&height=220&section=header&text=Saurabh%20Mane&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Multi-Cloud%20Kubernetes%20%7C%20Infrastructure%20Automation&descSize=18&descFontColor=FFFFFF&descAlignY=58" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9BF5&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Saurabh+Mane!+%F0%9F%91%8B;DevOps+Engineer+%F0%9F%9A%80;Multi-Cloud+Kubernetes+Expert+%E2%98%81%EF%B8%8F;Infrastructure+Automation+Architect+%F0%9F%94%A7" alt="Typing SVG" />
 </h1>
@@ -193,3 +197,7 @@ saurabh = {
 ---
 
 <p align="center">Made with ❤️ by Saurabh Mane</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9BF5,100:1F4E79&height=120&section=footer" />
+</p>
