@@ -44,7 +44,8 @@
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-      <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
     </td>
     <td align="center" width="33%">
       <strong>🐳 Containers & Runtime</strong><br><br>
@@ -160,6 +161,7 @@ saurabh = {
 * 🌱 I'm constantly learning **Azure AKS, GCP GKE, LangChain, and Advanced Kubernetes**
 * 🎯 2026 Goal: **Clear CKA**
 * ⚡ Fun fact: *"Automating a manual task gives me more joy than solving a complex puzzle!"*
+* 🔧 Automated infrastructure provisioning across **3+ environments using Ansible**, eliminating ~6 hrs/week of manual work
 * 🤝 Passionate about building **scalable, secure, and self-healing cloud systems**
 
 ---
