@@ -309,7 +309,7 @@ saurabh = {
 
 ---
 
-<p align="center">Made with ❤️ by Saurabh Mane</p>
+<p align="center">Made by Saurabh Mane</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9BF5,100:1F4E79&height=120&section=footer" />
