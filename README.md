@@ -162,113 +162,19 @@
 
 A selection of hands-on projects covering multi-cloud infrastructure, Kubernetes, CI/CD, security and observability.
 
-**Every project below includes its own related architecture workflow** — click **🧭 Architecture Workflow** to expand it.
+**Every project below includes its own related architecture workflow.**
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🌐 1. Multi-Cloud DevOps StudentSphere
 
 <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/GCP_GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
 
-Multi-cloud DevOps project focused on deploying and managing an application across Kubernetes environments.
+> Multi-cloud DevOps project focused on deploying and managing an application across Kubernetes environments.
 
-<a href="https://github.com/manesaurabh1704-devops/multi-cloud-devops-studentsphere"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View StudentSphere project" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 2. AI Autonomous DevOps Healer
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-
-Explores AI-assisted Kubernetes operations, monitoring signals and automated remediation workflows.
-
-<a href="https://github.com/manesaurabh1704-devops/ai-autonomous-devops-healer"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AI DevOps Healer project" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ 3. Terraform Multi-Cloud Infra
-
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-
-Reusable infrastructure-as-code project for provisioning resources across AWS, Azure and Google Cloud.
-
-<a href="https://github.com/manesaurabh1704-devops/terraform-multi-cloud-infra"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Terraform Multi-Cloud project" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ 4. Kubernetes Production Setup
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-
-Kubernetes configuration project covering workload deployment and cluster-level operational concepts.
-
-<a href="https://github.com/manesaurabh1704-devops/kubernetes-production-setup"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Kubernetes project" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 5. Monitoring & Observability Stack
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-
-Monitoring stack project using Prometheus, Grafana and supporting observability components.
-
-<a href="https://github.com/manesaurabh1704-devops/monitoring-observability-stack"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Monitoring project" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 6. DevOps Security & Secrets
-
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" /> <img src="https://img.shields.io/badge/RBAC-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-
-DevSecOps practice project covering container scanning, Kubernetes access controls, network policies and secrets-handling patterns.
-
-<a href="https://github.com/manesaurabh1704-devops/devops-security-secrets"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DevOps Security project" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔄 7. CI/CD DevOps Pipelines
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" />
-
-Pipeline automation project using Jenkins and GitHub Actions with container build and deployment workflow examples.
-
-<a href="https://github.com/manesaurabh1704-devops/ci-cd-devops-pipelines"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CI/CD project" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏗️ 8. Terraform AWS DevOps Infrastructure
-
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-
-AWS infrastructure automation project using Terraform modules and core networking and compute resources.
-
-<a href="https://github.com/manesaurabh1704-devops/terraform-aws-devops-infrastructure"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AWS Terraform project" /></a>
-
-</td>
-</tr>
-</table>
-
-### 🧭 Architecture Workflows
-
-<details>
-<summary><b>🌐 1. Multi-Cloud DevOps StudentSphere</b></summary>
+**🧭 Architecture Workflow**
 
 ```mermaid
 flowchart TD
@@ -281,10 +187,19 @@ flowchart TD
     E --> H["Google GKE"]
 ```
 
-</details>
+<div align="center">
+<a href="https://github.com/manesaurabh1704-devops/multi-cloud-devops-studentsphere"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View StudentSphere project" /></a>
+</div>
 
-<details>
-<summary><b>🤖 2. AI Autonomous DevOps Healer</b></summary>
+---
+
+### 🤖 2. AI Autonomous DevOps Healer
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+
+> Explores AI-assisted Kubernetes operations, monitoring signals and automated remediation workflows.
+
+**🧭 Architecture Workflow**
 
 ```mermaid
 flowchart TD
@@ -296,10 +211,19 @@ flowchart TD
     F --> G["Kubernetes Operations"]
 ```
 
-</details>
+<div align="center">
+<a href="https://github.com/manesaurabh1704-devops/ai-autonomous-devops-healer"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AI DevOps Healer project" /></a>
+</div>
 
-<details>
-<summary><b>☁️ 3. Terraform Multi-Cloud Infra</b></summary>
+---
+
+### ☁️ 3. Terraform Multi-Cloud Infra
+
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+
+> Reusable infrastructure-as-code project for provisioning resources across AWS, Azure and Google Cloud.
+
+**🧭 Architecture Workflow**
 
 ```mermaid
 flowchart TD
@@ -312,10 +236,19 @@ flowchart TD
     E --> F
 ```
 
-</details>
+<div align="center">
+<a href="https://github.com/manesaurabh1704-devops/terraform-multi-cloud-infra"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Terraform Multi-Cloud project" /></a>
+</div>
 
-<details>
-<summary><b>⚙️ 4. Kubernetes Production Setup</b></summary>
+---
+
+### ⚙️ 4. Kubernetes Production Setup
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+
+> Kubernetes configuration project covering workload deployment and cluster-level operational concepts.
+
+**🧭 Architecture Workflow**
 
 ```mermaid
 flowchart TD
@@ -326,10 +259,19 @@ flowchart TD
     E --> F["Cluster Operations"]
 ```
 
-</details>
+<div align="center">
+<a href="https://github.com/manesaurabh1704-devops/kubernetes-production-setup"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Kubernetes project" /></a>
+</div>
 
-<details>
-<summary><b>📊 5. Monitoring & Observability Stack</b></summary>
+---
+
+### 📊 5. Monitoring & Observability Stack
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+
+> Monitoring stack project using Prometheus, Grafana and supporting observability components.
+
+**🧭 Architecture Workflow**
 
 ```mermaid
 flowchart TD
@@ -340,10 +282,19 @@ flowchart TD
     E --> F["Operational Notifications"]
 ```
 
-</details>
+<div align="center">
+<a href="https://github.com/manesaurabh1704-devops/monitoring-observability-stack"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Monitoring project" /></a>
+</div>
 
-<details>
-<summary><b>🔐 6. DevOps Security & Secrets</b></summary>
+---
+
+### 🔐 6. DevOps Security & Secrets
+
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" /> <img src="https://img.shields.io/badge/RBAC-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+
+> DevSecOps practice project covering container scanning, Kubernetes access controls, network policies and secrets-handling patterns.
+
+**🧭 Architecture Workflow**
 
 ```mermaid
 flowchart TD
@@ -358,10 +309,19 @@ flowchart TD
     G --> H
 ```
 
-</details>
+<div align="center">
+<a href="https://github.com/manesaurabh1704-devops/devops-security-secrets"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DevOps Security project" /></a>
+</div>
 
-<details>
-<summary><b>🔄 7. CI/CD DevOps Pipelines</b></summary>
+---
+
+### 🔄 7. CI/CD DevOps Pipelines
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" />
+
+> Pipeline automation project using Jenkins and GitHub Actions with container build and deployment workflow examples.
+
+**🧭 Architecture Workflow**
 
 ```mermaid
 flowchart TD
@@ -373,10 +333,19 @@ flowchart TD
     F --> G["Deployment Workflow"]
 ```
 
-</details>
+<div align="center">
+<a href="https://github.com/manesaurabh1704-devops/ci-cd-devops-pipelines"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CI/CD project" /></a>
+</div>
 
-<details>
-<summary><b>🏗️ 8. Terraform AWS DevOps Infrastructure</b></summary>
+---
+
+### 🏗️ 8. Terraform AWS DevOps Infrastructure
+
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+
+> AWS infrastructure automation project using Terraform modules and core networking and compute resources.
+
+**🧭 Architecture Workflow**
 
 ```mermaid
 flowchart TD
@@ -387,7 +356,9 @@ flowchart TD
     D --> F["CloudWatch Monitoring"]
 ```
 
-</details>
+<div align="center">
+<a href="https://github.com/manesaurabh1704-devops/terraform-aws-devops-infrastructure"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AWS Terraform project" /></a>
+</div>
 
 ---
 
@@ -437,9 +408,11 @@ My focus is on practical solutions that simplify deployments, improve infrastruc
 
 ### 💼 Engagement Models
 
-📦 **Fixed-Price Projects** — Clearly scoped infrastructure, automation, deployment and implementation projects with agreed deliverables.
+📦 **Fixed-Price Projects**<br/>
+Clearly scoped infrastructure, automation, deployment and implementation projects with agreed deliverables.
 
-⏱️ **Hourly Engagement** — Task-based DevOps support, troubleshooting, infrastructure assistance and technical collaboration.
+⏱️ **Hourly Engagement**<br/>
+Task-based DevOps support, troubleshooting, infrastructure assistance and technical collaboration.
 
 </td>
 </tr>
@@ -451,9 +424,7 @@ My focus is on practical solutions that simplify deployments, improve infrastruc
 
 Tell me about your infrastructure, automation or deployment requirements. Let's discuss a practical solution for your team.
 
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=saurabh.mane.devops%40gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/DISCUSS_YOUR_PROJECT-2E9BF5?style=for-the-badge&logo=gmail&logoColor=white" alt="Discuss your project" />
-</a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=saurabh.mane.devops%40gmail.com" target="_blank"><img src="https://img.shields.io/badge/DISCUSS_YOUR_PROJECT-2E9BF5?style=for-the-badge&logo=gmail&logoColor=white" alt="Discuss your project" /></a>
 
 </div>
 
@@ -481,7 +452,7 @@ Tell me about your infrastructure, automation or deployment requirements. Let's 
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top" align="center">
 
 **✅ Completed**
 
@@ -490,7 +461,7 @@ Tell me about your infrastructure, automation or deployment requirements. Let's 
 ![AWS Cloud Quest](https://img.shields.io/badge/AWS_Cloud_Quest-Completed_Learning_Path-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top" align="center">
 
 **🟡 In Progress**
 
@@ -571,19 +542,13 @@ Have a cloud, Kubernetes, CI/CD or infrastructure automation requirement?
 
 Let's discuss your project, understand the technical requirements and explore a practical solution.
 
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=saurabh.mane.devops%40gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/LET'S_WORK_TOGETHER-2E9BF5?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's work together" />
-</a>
-<a href="https://github.com/manesaurabh1704-devops" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://hub.docker.com/u/manesaurabh1704devops" target="_blank">
-<img src="https://img.shields.io/badge/DOCKER_HUB-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub profile" />
-</a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=saurabh.mane.devops%40gmail.com" target="_blank"><img src="https://img.shields.io/badge/LET'S_WORK_TOGETHER-2E9BF5?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's work together" /></a>
+<a href="https://github.com/manesaurabh1704-devops" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://hub.docker.com/u/manesaurabh1704devops" target="_blank"><img src="https://img.shields.io/badge/DOCKER_HUB-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub profile" /></a>
 
-| 📧 Email | 💼 Engagement |
-|:--:|:--:|
-| [saurabh.mane.devops@gmail.com](mailto:saurabh.mane.devops@gmail.com) | Fixed-price projects \| Hourly DevOps support |
+**Email:** [saurabh.mane.devops@gmail.com](mailto:saurabh.mane.devops@gmail.com)
+
+**Engagement:** Fixed-price projects | Hourly DevOps support
 
 *Building, automating and supporting reliable cloud infrastructure.*
 
